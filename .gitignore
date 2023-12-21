@@ -4,4 +4,8 @@
 /todo
 todo.txt
 
-
+# environmental files
+/env
+.env
+.env.local
+*.env
