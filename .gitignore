@@ -9,3 +9,6 @@ todo.txt
 .env
 .env.local
 *.env
+
+# package management
+/vendor
